@@ -9,7 +9,7 @@ import hello.core.member.MemoryMemberRepository;
 
 public class OrderServiceImpl implements OrderService {
 
-    private final MemberRepository memberRepository = new MemoryMemberRepository();
+    // private final MemberRepository memberRepository = new MemoryMemberRepository();
 
     // 할인 정책을 변경하려면 이 코드를 변경해야하는데....
     // 역할 구현 충실 분리 -> OK
@@ -24,8 +24,13 @@ public class OrderServiceImpl implements OrderService {
     // 다음과 같이 주석을 변경하는 순간 OrderServiceImpl 소스도 함께 변경해야한다??
     // -> OCP(개방-폐쇠 원칙)위반
 
+    private final MemberRepository memberRepository;
+    private final DiscountPolicy discountPolicy;
 
-    private DiscountPolicy discountPolicy;
+    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
+        this.memberRepository = memberRepository;
+        this.discountPolicy = discountPolicy;
+    }
 
     @Override
     public Order createOrder(Long memberId, String itemName, int itemPrice) {
