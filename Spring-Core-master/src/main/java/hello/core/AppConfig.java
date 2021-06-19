@@ -2,9 +2,8 @@ package hello.core;
 
 import hello.core.discount.DiscountPolicy;
 import hello.core.discount.FixDiscountPolicy;
-import hello.core.member.MemberService;
-import hello.core.member.MemberServiceImpl;
-import hello.core.member.MemoryMemberRepository;
+import hello.core.discount.RateDiscountPolicy;
+import hello.core.member.*;
 import hello.core.order.OrderService;
 import hello.core.order.OrderServiceImpl;
 
@@ -17,7 +16,7 @@ public class AppConfig {
 
     // 역할이 다 들어난다
     // 이 코드만 바꾸면 된다
-    private MemoryMemberRepository getMemberRepository() {
+    private MemberRepository getMemberRepository() {
         return new MemoryMemberRepository();
     }
 
@@ -27,6 +26,7 @@ public class AppConfig {
 
     // 역할이 들어난다
     public DiscountPolicy discountPolicy() {
-        return new FixDiscountPolicy();
+//         return new FixDiscountPolicy();
+        return new RateDiscountPolicy();
     }
 }
