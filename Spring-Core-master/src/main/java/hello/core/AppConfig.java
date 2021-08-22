@@ -31,6 +31,7 @@ public class AppConfig {
     }
 
     // 역할이 들어난다
+    // @Bean(name = "discountPolicy2") // 네이밍을 지정할 수 있다.
     @Bean
     public DiscountPolicy discountPolicy() {
 //         return new FixDiscountPolicy();
