@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<div>
+  <ul th:each="list : ${demoList}">
+    <li th:text="${list.idx}"></li>
+    <li th:text="${list.test1}"></li>
+    <li th:text="${list.test2}"></li>
+    <li th:text="${list.test3}"></li>
+    <li th:text="${list.test4}"></li>
+  </ul>
+</div>
+</body>
+</html>

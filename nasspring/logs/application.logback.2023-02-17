@@ -1,0 +1,185 @@
+[INFO ] 2023-02-17 15:22:31,493 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 7740 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:22:31,493 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:22:32,003 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:22:32,004 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:22:32,005 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:22:32,064 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:22:32,065 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 568 ms
+[INFO ] 2023-02-17 15:22:32,130 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:22:32,159 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:22:32,173 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:22:32,178 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.81 seconds (JVM running for 580.02)
+[INFO ] 2023-02-17 15:22:32,180 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:23:06,818 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 4 class path changes (0 additions, 0 deletions, 4 modifications)
+[INFO ] 2023-02-17 15:23:07,276 - Thread-31 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:23:07,512 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 7740 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:23:07,513 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:23:07,872 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:23:07,873 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:23:07,873 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:23:07,933 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:23:07,933 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 414 ms
+[INFO ] 2023-02-17 15:23:07,992 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:23:08,025 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:23:08,040 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:23:08,067 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.72 seconds (JVM running for 615.908)
+[INFO ] 2023-02-17 15:23:08,069 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:25:52,682 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 4 class path changes (0 additions, 0 deletions, 4 modifications)
+[INFO ] 2023-02-17 15:25:52,923 - Thread-42 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:25:53,035 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 7740 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:25:53,036 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:25:53,326 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:25:53,327 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:25:53,327 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:25:53,352 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:25:53,353 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 314 ms
+[INFO ] 2023-02-17 15:25:53,380 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:25:53,397 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:25:53,403 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:25:53,407 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.433 seconds (JVM running for 781.248)
+[INFO ] 2023-02-17 15:25:53,408 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:28:27,252 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+[INFO ] 2023-02-17 15:28:27,804 - Thread-47 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:28:28,058 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 7740 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:28:28,059 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:28:28,736 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:28:28,737 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:28:28,738 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:28:28,824 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:28:28,824 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 761 ms
+[INFO ] 2023-02-17 15:28:28,902 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:28:28,944 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:28:28,962 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:28:28,972 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 1.052 seconds (JVM running for 936.814)
+[INFO ] 2023-02-17 15:28:28,976 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:28:31,431 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+[INFO ] 2023-02-17 15:28:32,079 - Thread-52 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:28:32,336 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 7740 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:28:32,337 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:28:33,146 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:28:33,148 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:28:33,148 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:28:33,222 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:28:33,223 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 877 ms
+[INFO ] 2023-02-17 15:28:33,285 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:28:33,323 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:28:33,337 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:28:33,343 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 1.154 seconds (JVM running for 941.185)
+[INFO ] 2023-02-17 15:28:33,345 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:29:51,651 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 8148 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:29:51,653 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:29:51,728 - restartedMain o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor DeferredLog.java:255 Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2023-02-17 15:29:51,729 - restartedMain o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor DeferredLog.java:255 For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2023-02-17 15:29:52,903 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:29:52,915 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:29:52,915 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:29:52,915 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:29:53,030 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:29:53,031 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 1302 ms
+[INFO ] 2023-02-17 15:29:53,582 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:29:54,090 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:29:54,129 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:29:54,179 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:29:54,208 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 3.227 seconds (JVM running for 4.081)
+[INFO ] 2023-02-17 15:29:57,212 - http-nio-8080-exec-1 o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-02-17 15:29:57,213 - http-nio-8080-exec-1 o.s.w.s.DispatcherServlet FrameworkServlet.java:525 Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-02-17 15:29:57,216 - http-nio-8080-exec-1 o.s.w.s.DispatcherServlet FrameworkServlet.java:547 Completed initialization in 2 ms
+[INFO ] 2023-02-17 15:29:57,299 - http-nio-8080-exec-1 c.e.n.d.DemoController    DemoController.java:24 info
+[INFO ] 2023-02-17 15:30:16,758 - http-nio-8080-exec-2 c.e.n.d.DemoController    DemoController.java:24 info
+[INFO ] 2023-02-17 15:31:02,271 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 17624 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:31:02,273 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:31:02,353 - restartedMain o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor DeferredLog.java:255 Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2023-02-17 15:31:02,353 - restartedMain o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor DeferredLog.java:255 For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2023-02-17 15:31:03,265 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:31:03,273 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:31:03,273 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:31:03,273 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:31:03,351 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:31:03,351 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 997 ms
+[INFO ] 2023-02-17 15:31:03,543 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:31:03,684 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:31:03,697 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:31:03,718 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:31:03,728 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 1.976 seconds (JVM running for 2.814)
+[INFO ] 2023-02-17 15:31:28,902 - http-nio-8080-exec-1 o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-02-17 15:31:28,902 - http-nio-8080-exec-1 o.s.w.s.DispatcherServlet FrameworkServlet.java:525 Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-02-17 15:31:28,904 - http-nio-8080-exec-1 o.s.w.s.DispatcherServlet FrameworkServlet.java:547 Completed initialization in 2 ms
+[INFO ] 2023-02-17 15:31:28,977 - http-nio-8080-exec-1 c.e.n.d.DemoController    DemoController.java:24 info
+[WARN ] 2023-02-17 15:31:28,977 - http-nio-8080-exec-1 c.e.n.d.DemoController    DemoController.java:26 warn
+[INFO ] 2023-02-17 15:42:01,917 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 6 class path changes (2 additions, 0 deletions, 4 modifications)
+[INFO ] 2023-02-17 15:42:02,140 - Thread-6 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:42:02,141 - Thread-6 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:42:02,156 - Thread-6 o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Destroying Spring FrameworkServlet 'dispatcherServlet'
+[INFO ] 2023-02-17 15:42:02,166 - Thread-6 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:42:02,168 - Thread-6 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Destroying ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:42:02,272 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 17624 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:42:02,272 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:42:02,620 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:42:02,621 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:42:02,621 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:42:02,621 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:42:02,648 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:42:02,648 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 372 ms
+[INFO ] 2023-02-17 15:42:02,681 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:42:02,701 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:42:02,707 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:42:02,711 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:42:02,714 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.5 seconds (JVM running for 661.798)
+[INFO ] 2023-02-17 15:42:02,715 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:44:20,018 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 6 class path changes (0 additions, 0 deletions, 6 modifications)
+[INFO ] 2023-02-17 15:44:20,319 - Thread-8 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:44:20,320 - Thread-8 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:44:20,324 - Thread-8 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:44:20,326 - Thread-8 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Destroying ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:44:20,469 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 17624 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:44:20,470 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:44:20,836 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:44:20,837 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:44:20,837 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:44:20,837 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:44:20,874 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:44:20,874 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 399 ms
+[INFO ] 2023-02-17 15:44:20,938 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:44:20,972 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:44:20,980 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:44:20,984 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:44:20,988 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.612 seconds (JVM running for 800.074)
+[INFO ] 2023-02-17 15:44:20,990 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:49:19,866 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+[INFO ] 2023-02-17 15:49:20,130 - Thread-13 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:20,130 - Thread-13 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:49:20,134 - Thread-13 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:20,136 - Thread-13 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Destroying ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:20,225 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 17624 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:49:20,225 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:49:20,474 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:49:20,474 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:20,474 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:49:20,475 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:49:20,505 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:49:20,505 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 276 ms
+[INFO ] 2023-02-17 15:49:20,539 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:49:20,559 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:49:20,563 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:20,567 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:49:20,570 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.4 seconds (JVM running for 1099.655)
+[INFO ] 2023-02-17 15:49:20,571 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged
+[INFO ] 2023-02-17 15:49:22,015 - File Watcher o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener LocalDevToolsAutoConfiguration.java:211 Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+[INFO ] 2023-02-17 15:49:22,251 - Thread-18 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Pausing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:22,251 - Thread-18 o.a.c.c.StandardService   DirectJDKLog.java:173 Stopping service [Tomcat]
+[INFO ] 2023-02-17 15:49:22,259 - Thread-18 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Stopping ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:22,260 - Thread-18 o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Destroying ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:22,352 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:55 Starting NasspringApplication using Java 11.0.18 on 김창엽 with PID 17624 (C:\workspace\nasspring\build\classes\java\main started by 김창엽 in C:\workspace\nasspring)
+[INFO ] 2023-02-17 15:49:22,352 - restartedMain c.e.n.NasspringApplication SpringApplication.java:637 The following 1 profile is active: "local"
+[INFO ] 2023-02-17 15:49:22,588 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:108 Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-17 15:49:22,589 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:22,589 - restartedMain o.a.c.c.StandardService   DirectJDKLog.java:173 Starting service [Tomcat]
+[INFO ] 2023-02-17 15:49:22,589 - restartedMain o.a.c.c.StandardEngine    DirectJDKLog.java:173 Starting Servlet engine: [Apache Tomcat/9.0.71]
+[INFO ] 2023-02-17 15:49:22,620 - restartedMain o.a.c.c.C.[.[.[/]         DirectJDKLog.java:173 Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-17 15:49:22,621 - restartedMain o.s.b.w.s.c.ServletWebServerApplicationContext ServletWebServerApplicationContext.java:292 Root WebApplicationContext: initialization completed in 266 ms
+[INFO ] 2023-02-17 15:49:22,653 - restartedMain o.s.b.a.w.s.WelcomePageHandlerMapping WelcomePageHandlerMapping.java:57 Adding welcome page template: index
+[INFO ] 2023-02-17 15:49:22,670 - restartedMain o.s.b.d.a.OptionalLiveReloadServer OptionalLiveReloadServer.java:59 LiveReload server is running on port 35729
+[INFO ] 2023-02-17 15:49:22,673 - restartedMain o.a.c.h.Http11NioProtocol DirectJDKLog.java:173 Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-17 15:49:22,677 - restartedMain o.s.b.w.e.t.TomcatWebServer TomcatWebServer.java:220 Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-17 15:49:22,680 - restartedMain c.e.n.NasspringApplication StartupInfoLogger.java:61 Started NasspringApplication in 0.382 seconds (JVM running for 1101.766)
+[INFO ] 2023-02-17 15:49:22,681 - restartedMain o.s.b.d.a.ConditionEvaluationDeltaLoggingListener ConditionEvaluationDeltaLoggingListener.java:63 Condition evaluation unchanged

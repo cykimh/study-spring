@@ -1,0 +1,104 @@
+#Config
+
+spring:
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: HTML
+  devtools:
+    restart:
+      enabled: true
+  main:
+    allow-bean-definition-overriding: true
+
+mybatis:
+  type-aliases-package: com.example.nasspring
+  mapper-locations:
+    - classpath:/mapper/**/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+
+
+---
+
+#local
+run:
+  mode: local
+
+spring:
+  config:
+    activate:
+      on-profile: local
+  thymeleaf:
+    cache: false
+  datasource:
+    url:  jdbc:log4jdbc:mysql://183.110.234.106:53306/demo_test?characterEncoding=UTF-8&serverTimezone=UTC
+    username: adtech
+    password: Nsmart@dlcjs22
+    driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+    hikari:
+      connection-timeout: 5000
+      validation-timeout: 1000
+      maximum-pool-size: 30
+      minimum-idle: 2
+      connection-test-query: SELECT 1
+
+logging:
+  level:
+    root: info
+#phase
+---
+
+#dev
+run:
+  mode: dev
+
+spring:
+  config:
+    activate:
+      on-profile: dev
+  thymeleaf:
+    cache: false
+  datasource:
+    url: jdbc:mysql://183.110.234.106:53306/demo_test?characterEncoding=UTF-8&serverTimezone=UTC
+    username: adtech
+    password: Nsmart@dlcjs22
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-timeout: 5000
+      validation-timeout: 1000
+      maximum-pool-size: 30
+      minimum-idle: 2
+      connection-test-query: SELECT 1
+
+logging:
+  level:
+    root: info
+---
+
+#real
+run:
+  mode: real
+
+spring:
+  config:
+    activate:
+      on-profile: real
+  thymeleaf:
+    cache: false
+  datasource:
+    url: jdbc:mysql://183.110.234.106:53306/demo_test?characterEncoding=UTF-8&serverTimezone=UTC
+    username: adtech
+    password: Nsmart@dlcjs22
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-timeout: 5000
+      validation-timeout: 1000
+      maximum-pool-size: 30
+      minimum-idle: 2
+      connection-test-query: SELECT 1
+
+logging:
+  level:
+    root: info

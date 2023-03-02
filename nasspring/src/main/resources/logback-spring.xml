@@ -1,0 +1,4 @@
+<!-- 로그 관련 Config -->
+<configuration>
+    <include resource="logback/logback-${spring.profiles.active}.xml"/>
+</configuration>
