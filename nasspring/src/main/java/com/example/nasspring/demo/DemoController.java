@@ -9,6 +9,7 @@ import org.springframework.ui.Model;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
 
@@ -51,6 +52,17 @@ public class DemoController {
 
         return "db-test";
     }
+    @GetMapping("/db-test2")
+    @ResponseBody //알아서 json으로 만들어버림
+    public List<Demo> dbTest2(Model model) {
+        log.info("db-test");
+
+        List<Demo> demoList = demoService.selectDemoTable();
+
+//        if login count check
+//        Session생성
+        return demoList;
+    }
 
     @GetMapping("/layout-test")
     public String layoutTest(Model model){
@@ -59,6 +71,19 @@ public class DemoController {
         return "layout-test";
     }
 
+    @GetMapping("/interceptor-test")
+    public String interceptorTest(Model model){
+        log.info("interceptor_test");
+
+        return "layout-test";
+    }
+
+    @GetMapping("/interceptor-exclude")
+    public String interceptorExclude(Model model){
+        log.info("interceptor_exclude");
+
+        return "layout-test";
+    }
 }
 
 //POST = INSERT
