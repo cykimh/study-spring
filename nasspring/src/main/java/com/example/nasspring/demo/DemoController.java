@@ -52,6 +52,12 @@ public class DemoController {
         return "db-test";
     }
 
+    @GetMapping("/layout-test")
+    public String layoutTest(Model model){
+        log.info("layout-test");
+
+        return "layout-test";
+    }
 
 }
 

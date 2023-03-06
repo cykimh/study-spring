@@ -1,0 +1,14 @@
+<html lang="ko"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<!--configFragment 선언-->
+<th:block th:fragment="commonScripts">
+
+
+    <!-- <script th:src="@{/js/StringUtil.js}"></script> -->
+
+    <!-- 페이별 커스텀 스크립트 -->
+    <th:block layout:fragment="pageScript"></th:block>
+</th:block>
+</html>
